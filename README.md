@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owaisgul123
+- 👋 Hi, I’m owais gul
 - 👀 I’m interested in ...technology, and reading
 - 🌱 I’m currently learning ...web deveopment
 - 💞️ I’m looking to collaborate on ...web development
